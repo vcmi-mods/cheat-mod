@@ -1,0 +1,13 @@
+{
+	"name" : "Cheat Collection",
+	"description" : "A couple of mods for effective cheating.",
+	"author" : "Olegmods.INC",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
+	"contact" : "vcmi.eu",
+	"modType" : "Other",
+	"version" : "1.00",
+	"compatibility" : {
+		"min" : "1.6.0"
+	}
+}

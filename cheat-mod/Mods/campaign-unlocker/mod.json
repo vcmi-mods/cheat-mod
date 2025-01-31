@@ -1,0 +1,13 @@
+{
+	"name" : "Campaign Unlocker",
+	"description" : "Unlocks all campaigns.",
+	"author" : "Olegmods.INC",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
+	"contact" : "vcmi.eu",
+	"modType" : "Other",
+	"version" : "1.0",
+	"compatibility" : {
+		"min" : "1.6.0"
+	}
+}
