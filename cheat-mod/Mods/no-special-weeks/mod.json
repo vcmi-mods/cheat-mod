@@ -12,7 +12,7 @@
 	},
 	"settings" : {
 		"creatures" : {
-			"allowRandomSpecialWeeks" : false,
+			"allowRandomSpecialWeeks" : false
 		}
 	}
 }
