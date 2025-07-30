@@ -7,6 +7,7 @@
 	"contact" : "vcmi.eu",
 	"modType" : "Other",
 	"version" : "1.0",
+	"keepDisabled" : true,
 	"compatibility" : {
 		"min" : "1.6.0"
 	},
