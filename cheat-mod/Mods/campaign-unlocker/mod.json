@@ -1,6 +1,6 @@
 {
 	"name" : "Campaign Unlocker",
-	"description" : "Unlocks all campaigns.",
+	"description" : "Unlocks all campaigns, allowing you to play any of them right from the start without following the default order.",
 	"author" : "Olegmods.INC",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -8,6 +8,18 @@
 	"modType" : "Other",
 	"version" : "1.0",
 	"compatibility" : {
-		"min" : "1.6.0"
+		"min" : "1.7.0"
+	},
+	"changelog": {
+		"1.0": ["Initial version"]
+	},
+	"settings" : {
+		"campaign" : {
+			"unlockAll" : true
+		}
+	},
+	"czech" : {
+		"name" : "Odemknutí kampaní",
+		"description" : "Odemkne všechny kampaně a umožní hrát libovolnou z nich hned od začátku, bez nutnosti dodržovat původní pořadí."
 	}
 }
