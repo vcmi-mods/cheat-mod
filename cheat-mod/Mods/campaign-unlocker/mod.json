@@ -10,8 +10,10 @@
 	"compatibility" : {
 		"min" : "1.7.0"
 	},
-	"changelog": {
-		"1.0": ["Initial version"]
+	"changelog" : {
+		"1.0" : [
+			"Initial version"
+		]
 	},
 	"settings" : {
 		"campaign" : {
