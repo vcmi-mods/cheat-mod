@@ -1,0 +1,23 @@
+{
+	"name" : "Accumulating Dwellings",
+	"description" : "Neutral and player-owned dwellings will accumulate creatures every week instead of resetting their growth.",
+	"author" : "Olegmods.INC",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
+	"contact" : "vcmi.eu",
+	"modType" : "Mechanics",
+	"version" : "1.0",
+	"compatibility" : {
+		"min" : "1.6.0"
+	},
+	"settings" : {
+		"dwellings" : {
+			"accumulateWhenNeutral" : true,
+			"accumulateWhenOwned" : true
+		}
+	},
+	"czech" : {
+		"name" : "Akumulující obydlí",
+		"description" : "Neutrální i hráčem vlastněná obydlí budou každým týdnem hromadit jednotky místo resetování růstu."
+	}
+}

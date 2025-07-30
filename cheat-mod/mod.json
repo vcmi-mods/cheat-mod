@@ -1,13 +1,31 @@
 {
-	"name" : "Cheat Collection",
-	"description" : "A couple of mods for effective cheating.",
+	"name" : "Enhanced Gameplay Tweaks",
+	"description" : "A collection of optional gameplay modifications to customize and enhance your Heroes III experience:<br><br>• <b>Unlimited Build</b> – allows constructing unlimited buildings per day in towns<br>• <b>Unlimited Heroes</b> – removes hero cap per player<br>• <b>Campaign Unlocker</b> – unlocks all campaigns from the start, playable in any order<br>• <b>Accumulating Dwellings</b> – dwellings accumulate creatures every week instead of resetting<br>• <b>Black Market Restock</b> – restocks Black Markets every 7 days<br>• <b>No Special Weeks</b> – disables random special weeks and months<br>• <b>Double Weeks for All Creatures</b> – every creature can receive a double growth month",
 	"author" : "Olegmods.INC",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
 	"contact" : "vcmi.eu",
-	"modType" : "Other",
-	"version" : "1.1",
+	"modType" : "Mechanics",
+	"version" : "1.2",
 	"compatibility" : {
-		"min" : "1.6.0"
+		"min" : "1.7.0"
+	},
+	"changelog" : {
+		"1.2" : [
+			"Improved names and descriptions",
+			"Added Black Market Restock, Accumulating Dwellings and Unlimited Heroes mods",
+			"Updated Campaigns Unlocker to 1.7 format",
+			"Added Czech translation by George King"
+		],
+		"1.1" : [
+			"Small fixes"
+		],
+		"1.0" : [
+			"Initial version"
+		]
+	},
+	"czech" : {
+		"name" : "Rozšířené herní úpravy",
+		"description" : "Sbírka volitelných úprav hratelnosti pro přizpůsobení a vylepšení zážitku z Heroes III:<br><br>• <b>Neomezená výstavba</b> – umožňuje stavět neomezený počet budov za tah ve městech<br>• <b>Neomezení hrdinové</b> – odstraňuje limit počtu hrdinů na hráče<br>• <b>Odemknutí kampaní</b> – odemkne všechny kampaně od začátku, hratelné v libovolném pořadí<br>• <b>Akumulující obydlí</b> – obydlí hromadí jednotky každý týden místo resetu<br>• <b>Obnova Černého trhu</b> – Černé trhy obnovují nabídku každých 7 dní<br>• <b>Žádné speciální týdny</b> – vypne náhodné speciální týdny a měsíce<br>• <b>Dvojité týdny pro všechny jednotky</b> – každá jednotka může mít měsíc s dvojnásobným přírůstkem"
 	}
 }

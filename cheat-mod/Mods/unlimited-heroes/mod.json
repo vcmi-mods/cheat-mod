@@ -1,0 +1,23 @@
+{
+	"name" : "Unlimited Heroes",
+	"description" : "Removes the limit on the number of heroes per player, allowing you to recruit as many as you want.",
+	"author" : "Olegmods.INC",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
+	"contact" : "vcmi.eu",
+	"modType" : "Mechanics",
+	"version" : "1.0",
+	"compatibility" : {
+		"min" : "1.6.0"
+	},
+	"settings" : {
+		"heroes" : {
+			"perPlayerOnMapCap" : 9999,
+			"perPlayerTotalCap" : 9999
+		}
+	},
+	"czech" : {
+		"name" : "Neomezení hrdinové",
+		"description" : "Odstraňuje limit počtu hrdinů na hráče a umožňuje naverbovat libovolné množství."
+	}
+}
