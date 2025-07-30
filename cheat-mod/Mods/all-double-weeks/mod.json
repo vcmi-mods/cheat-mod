@@ -1,6 +1,6 @@
 {
-	"name" : "Double weeks for all creatures",
-	"description" : "If enabled, every creature can get double growth month, ignoring predefined list.",
+	"name" : "Double Weeks for All Creatures",
+	"description" : "Allows every creature to receive a double growth month, ignoring the predefined list.",
 	"author" : "Olegmods.INC",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -14,5 +14,9 @@
 		"creatures" : {
 			"allowAllForDoubleMonth" : true
 		}
+	},
+	"czech" : {
+		"name" : "Dvojité týdny pro všechny jednotky",
+		"description" : "Umožní, aby každá jednotka mohla mít měsíc s dvojnásobným přírůstkem, bez ohledu na předdefinovaný seznam."
 	}
 }
