@@ -1,6 +1,6 @@
 {
 	"name" : "Unlimited Build",
-	"description" : "Allows unlimited build in towns. Mod doesn't add unlimited resources.",
+	"description" : "Removes the one-building-per-day limit in towns, allowing you to construct as many buildings as you want each turn. This mod does not grant unlimited resources.",
 	"author" : "Olegmods.INC",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -14,5 +14,9 @@
 		"towns" : {
 			"buildingsPerTurnCap" : 100
 		}
+	},
+	"czech" : {
+		"name" : "Neomezená výstavba",
+		"description" : "Odstraňuje omezení jednoho stavění za den ve městech a umožňuje postavit libovolný počet budov během jednoho tahu. Tato modifikace neposkytuje neomezené suroviny."
 	}
 }
