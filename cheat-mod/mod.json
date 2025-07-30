@@ -6,9 +6,15 @@
 	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
 	"contact" : "vcmi.eu",
 	"modType" : "Mechanics",
-	"version" : "1.1",
+	"version" : "1.2",
 	"compatibility" : {
 		"min" : "1.7.0"
+	},
+	"changelog":
+	{
+		"1.2": ["Improved names and descriptions", "Added Black Market Restock, Accumulating Dwellings and Unlimited Heroes mods", "Updated Campaigns Unlocker to 1.7 format", "Added Czech translation by George King"],
+		"1.1": ["Small fixes"],
+		"1.0": ["Initial version"]
 	},
 	"czech" : {
 		"name" : "Rozšířené herní úpravy",
