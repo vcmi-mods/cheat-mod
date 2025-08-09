@@ -1,0 +1,25 @@
+{
+	"name" : "Choose skill directly",
+	"description" : "Allows to choose the skill directly after levelup",
+	"author" : "Laserlicht",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
+	"contact" : "vcmi.eu",
+	"modType" : "Mechanics",
+	"version" : "1.0",
+	"keepDisabled" : true,
+	"compatibility":
+	{
+		"min" : "1.7.0"
+	},
+	"changelog":
+	{
+		"1.0": ["Initial version"]
+	},
+	"settings" : {
+		"heroes" : {
+			"levelupTotalSkillsAmount" : 99999,
+			"levelupUpgradedSkillsAmount" : 99999
+		}
+	}
+}
