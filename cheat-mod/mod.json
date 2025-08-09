@@ -6,11 +6,14 @@
 	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
 	"contact" : "vcmi.eu",
 	"modType" : "Mechanics",
-	"version" : "1.2",
+	"version" : "1.3",
 	"compatibility" : {
 		"min" : "1.7.0"
 	},
 	"changelog" : {
+		"1.3" : [
+			"Added: Choose skill directly"
+		],
 		"1.2" : [
 			"Improved names and descriptions",
 			"Added Black Market Restock, Accumulating Dwellings and Unlimited Heroes mods",
