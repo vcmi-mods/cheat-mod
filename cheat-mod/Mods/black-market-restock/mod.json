@@ -18,5 +18,9 @@
 	"czech" : {
 		"name" : "Obnova Černého trhu",
 		"description" : "Černé trhy obnovují nabídku každých 7 dní místo toho, aby zůstaly neměnné."
+	},
+	"turkish" : {
+		"name" : "Karaborsa Yeniden Stoklama",
+		"description" : "Karaborsadaki ürünleri hiç yenilememek yerine, 7 günde bir yeniler."
 	}
 }

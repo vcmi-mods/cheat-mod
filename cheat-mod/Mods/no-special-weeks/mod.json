@@ -19,5 +19,9 @@
 	"czech" : {
 		"name" : "Žádné speciální týdny",
 		"description" : "Vypne náhodné speciální týdny a měsíce, jako je dvojnásobný růst, mor nebo týdny jednotek. Nemá vliv na skriptované týdny, jako je \"Bůh ohně\".<br><br>Na mapách Horn of the Abyss toto nastavení nefunguje a použije se hodnota určená v mapě."
+	},
+	"turkish" : {
+		"name" : "Özel Haftalar Yok",
+		"description" : "Çift büyüme, veba veya yaratık haftaları gibi rastgele özel haftaları ve ayları devre dışı bırakır. \"Ateş Tanrısı\" gibi senaryolu haftaları etkilemez. <br><br>Horn of the Abyss haritalarında bu ayar etkili değildir ve bunun yerine haritanın değeri kullanılır."
 	}
 }

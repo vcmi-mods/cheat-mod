@@ -6,11 +6,14 @@
 	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
 	"contact" : "vcmi.eu",
 	"modType" : "Mechanics",
-	"version" : "1.3",
+	"version" : "1.4",
 	"compatibility" : {
 		"min" : "1.7.0"
 	},
 	"changelog" : {
+		"1.4" : [
+			"Added Turkish translation"
+		],
 		"1.3" : [
 			"Added: Choose skill directly"
 		],
@@ -30,5 +33,9 @@
 	"czech" : {
 		"name" : "Rozšířené herní úpravy",
 		"description" : "Sbírka volitelných úprav hratelnosti pro přizpůsobení a vylepšení zážitku z Heroes III:<br><br>• <b>Neomezená výstavba</b> – umožňuje stavět neomezený počet budov za tah ve městech<br>• <b>Neomezení hrdinové</b> – odstraňuje limit počtu hrdinů na hráče<br>• <b>Odemknutí kampaní</b> – odemkne všechny kampaně od začátku, hratelné v libovolném pořadí<br>• <b>Akumulující obydlí</b> – obydlí hromadí jednotky každý týden místo resetu<br>• <b>Obnova Černého trhu</b> – Černé trhy obnovují nabídku každých 7 dní<br>• <b>Žádné speciální týdny</b> – vypne náhodné speciální týdny a měsíce<br>• <b>Dvojité týdny pro všechny jednotky</b> – každá jednotka může mít měsíc s dvojnásobným přírůstkem"
+	},
+	"turkish" : {
+		"name" : "Avantajlı Oyun Seçenekleri (eski adıyla Hile Koleksiyonu)",
+		"description" : "Heroes III deneyiminizi özelleştirmek ve geliştirmek için isteğe bağlı oyun modifikasyonları koleksiyonu:<br><br>• <b>Sınırsız İnşaat</b> – kasabalarda günde sınırsız sayıda bina inşa etmenizi sağlar<br>• <b>Sınırsız Kahraman</b> – oyuncu başına kahraman sınırını kaldırır<br>• <b>Kampanya Kilit Açıcı</b> – tüm kampanyaları başlangıçtan itibaren kilidini açar, herhangi bir sırayla oynanabilir<br>• <b>Biriken Konutlar</b> – konutlar sıfırlanmak yerine her hafta yaratıkları biriktirir<br>• <b>Karaborsa Yenileme</b> – Karaborsaları 7 günde bir yeniler<br>• <b>Özel Haftalar Yok</b> – rastgele özel haftaları ve ayları devre dışı bırakır<br>• <b>Tüm Yaratıklar için Çift Hafta</b> – her yaratık çift büyüme ayı alabilir"
 	}
 }

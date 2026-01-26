@@ -23,5 +23,9 @@
 	"czech" : {
 		"name" : "Odemknutí kampaní",
 		"description" : "Odemkne všechny kampaně a umožní hrát libovolnou z nich hned od začátku, bez nutnosti dodržovat původní pořadí."
+	},
+	"turkish" : {
+		"name" : "Sefer Kilit Açıcı",
+		"description" : "Tüm seferlerin kilidini açar, böylece varsayılan sırayı takip etmeden herhangi birini baştan itibaren oynayabilirsiniz."
 	}
 }

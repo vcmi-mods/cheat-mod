@@ -21,5 +21,9 @@
 			"levelupTotalSkillsAmount" : 99999,
 			"levelupUpgradedSkillsAmount" : 99999
 		}
+	},
+	"turkish" : {
+		"name" : "Beceriyi Doğrudan Seç",
+		"description" : "Seviye atladıktan sonra doğrudan beceri seçilmesini sağlar"
 	}
 }

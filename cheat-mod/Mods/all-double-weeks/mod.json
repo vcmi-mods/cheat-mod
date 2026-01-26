@@ -18,5 +18,9 @@
 	"czech" : {
 		"name" : "Dvojité týdny pro všechny jednotky",
 		"description" : "Umožní, aby každá jednotka mohla mít měsíc s dvojnásobným přírůstkem, bez ohledu na předdefinovaný seznam."
+	},
+	"turkish" : {
+		"name" : "Tüm Canlılar İçin Çift Aylar",
+		"description" : "Önceden tanımlanmış listeyi göz ardı ederek, her yaratığın çift büyüme ayı almasını sağlar."
 	}
 }

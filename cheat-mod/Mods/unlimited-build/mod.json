@@ -19,5 +19,9 @@
 	"czech" : {
 		"name" : "Neomezená výstavba",
 		"description" : "Odstraňuje omezení jednoho stavění za den ve městech a umožňuje postavit libovolný počet budov během jednoho tahu. Tato modifikace neposkytuje neomezené suroviny."
+	},
+	"turkish" : {
+		"name" : "Sınırsız İnşaat",
+		"description" : "Kasabalarda günde bir bina inşa etme sınırını kaldırarak, her turda istediğiniz kadar bina inşa etmenizi sağlar. Bu mod, sınırsız kaynak sağlamaz."
 	}
 }
