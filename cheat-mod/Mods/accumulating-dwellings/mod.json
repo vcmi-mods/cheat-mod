@@ -19,5 +19,9 @@
 	"czech" : {
 		"name" : "Akumulující obydlí",
 		"description" : "Neutrální i hráčem vlastněná obydlí budou každým týdnem hromadit jednotky místo resetování růstu."
+	},
+	"turkish" : {
+		"name" : "Biriktiren Konutlar",
+		"description" : "Tarafsız veya oyuncuya ait konutlar, büyüme seviyeleri sıfırlanmak yerine her hafta yaratıkları biriktirecektir."
 	}
 }

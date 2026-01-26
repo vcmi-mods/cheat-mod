@@ -19,5 +19,9 @@
 	"czech" : {
 		"name" : "Neomezení hrdinové",
 		"description" : "Odstraňuje limit počtu hrdinů na hráče a umožňuje naverbovat libovolné množství."
+	},
+	"turkish" : {
+		"name" : "Sınırsız Kahramanlar",
+		"description" : "Oyuncu başına kahraman sayısına ilişkin sınırlamayı kaldırarak, istediğiniz kadar kahraman toplayabilmenizi sağlar."
 	}
 }
