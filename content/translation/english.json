@@ -1,0 +1,20 @@
+{
+	"mod.name" : "Advantageous Game Options (former Cheat Collection)",
+	"mod.description" : "A collection of optional gameplay modifications to customize and enhance your Heroes III experience:<br><br>• <b>Unlimited Build</b> – allows constructing unlimited buildings per day in towns<br>• <b>Unlimited Heroes</b> – removes hero cap per player<br>• <b>Campaign Unlocker</b> – unlocks all campaigns from the start, playable in any order<br>• <b>Accumulating Dwellings</b> – dwellings accumulate creatures every week instead of resetting<br>• <b>Black Market Restock</b> – restocks Black Markets every 7 days<br>• <b>No Special Weeks</b> – disables random special weeks and months<br>• <b>Double Weeks for All Creatures</b> – every creature can receive a double growth month",
+	"mod.accumulating-dwellings.name" : "Accumulating Dwellings",
+	"mod.accumulating-dwellings.description" : "Neutral and player-owned dwellings will accumulate creatures every week instead of resetting their growth.",
+	"mod.all-double-weeks.name" : "Double Months for All Creatures",
+	"mod.all-double-weeks.description" : "Allows every creature to receive a double growth month, ignoring the predefined list.",
+	"mod.black-market-restock.name" : "Black Market Restock",
+	"mod.black-market-restock.description" : "Restocks items in Black Markets every 7 days instead of never refreshing.",
+	"mod.campaign-unlocker.name" : "Campaign Unlocker",
+	"mod.campaign-unlocker.description" : "Unlocks all campaigns, allowing you to play any of them right from the start without following the default order.",
+	"mod.no-special-weeks.name" : "No Special Weeks",
+	"mod.no-special-weeks.description" : "Disables random special weeks and months such as double growth, plague, or creature weeks. Does not affect scripted weeks like \"Deity of Fire.\"<br><br>On Horn of the Abyss maps, this setting has no effect and the value from the map will be used instead.",
+	"mod.skill-direct.name" : "Choose skill directly",
+	"mod.skill-direct.description" : "Allows to choose the skill directly after levelup",
+	"mod.unlimited-build.name" : "Unlimited Build",
+	"mod.unlimited-build.description" : "Removes the one-building-per-day limit in towns, allowing you to construct as many buildings as you want each turn. This mod does not grant unlimited resources.",
+	"mod.unlimited-heroes.name" : "Unlimited Heroes",
+	"mod.unlimited-heroes.description" : "Removes the limit on the number of heroes per player, allowing you to recruit as many as you want."
+}

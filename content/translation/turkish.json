@@ -1,0 +1,20 @@
+{
+	"mod.name": "Avantajlı Oyun Seçenekleri (eski adıyla Hile Koleksiyonu)",
+	"mod.description": "Heroes III deneyiminizi özelleştirmek ve geliştirmek için isteğe bağlı oyun modifikasyonları koleksiyonu:<br><br>• <b>Sınırsız İnşaat</b> – kasabalarda günde sınırsız sayıda bina inşa etmenizi sağlar<br>• <b>Sınırsız Kahraman</b> – oyuncu başına kahraman sınırını kaldırır<br>• <b>Kampanya Kilit Açıcı</b> – tüm kampanyaları başlangıçtan itibaren kilidini açar, herhangi bir sırayla oynanabilir<br>• <b>Biriken Konutlar</b> – konutlar sıfırlanmak yerine her hafta yaratıkları biriktirir<br>• <b>Karaborsa Yenileme</b> – Karaborsaları 7 günde bir yeniler<br>• <b>Özel Haftalar Yok</b> – rastgele özel haftaları ve ayları devre dışı bırakır<br>• <b>Tüm Yaratıklar için Çift Hafta</b> – her yaratık çift büyüme ayı alabilir",
+	"mod.accumulating-dwellings.name": "Biriktiren Konutlar",
+	"mod.accumulating-dwellings.description": "Tarafsız veya oyuncuya ait konutlar, büyüme seviyeleri sıfırlanmak yerine her hafta yaratıkları biriktirecektir.",
+	"mod.all-double-weeks.name": "Tüm Canlılar İçin Çift Aylar",
+	"mod.all-double-weeks.description": "Önceden tanımlanmış listeyi göz ardı ederek, her yaratığın çift büyüme ayı almasını sağlar.",
+	"mod.black-market-restock.name": "Karaborsa Yeniden Stoklama",
+	"mod.black-market-restock.description": "Karaborsadaki ürünleri hiç yenilememek yerine, 7 günde bir yeniler.",
+	"mod.campaign-unlocker.name": "Sefer Kilit Açıcı",
+	"mod.campaign-unlocker.description": "Tüm seferlerin kilidini açar, böylece varsayılan sırayı takip etmeden herhangi birini baştan itibaren oynayabilirsiniz.",
+	"mod.no-special-weeks.name": "Özel Haftalar Yok",
+	"mod.no-special-weeks.description": "Çift büyüme, veba veya yaratık haftaları gibi rastgele özel haftaları ve ayları devre dışı bırakır. \"Ateş Tanrısı\" gibi senaryolu haftaları etkilemez. <br><br>Horn of the Abyss haritalarında bu ayar etkili değildir ve bunun yerine haritanın değeri kullanılır.",
+	"mod.skill-direct.name": "Beceriyi Doğrudan Seç",
+	"mod.skill-direct.description": "Seviye atladıktan sonra doğrudan beceri seçilmesini sağlar",
+	"mod.unlimited-build.name": "Sınırsız İnşaat",
+	"mod.unlimited-build.description": "Kasabalarda günde bir bina inşa etme sınırını kaldırarak, her turda istediğiniz kadar bina inşa etmenizi sağlar. Bu mod, sınırsız kaynak sağlamaz.",
+	"mod.unlimited-heroes.name": "Sınırsız Kahramanlar",
+	"mod.unlimited-heroes.description": "Oyuncu başına kahraman sayısına ilişkin sınırlamayı kaldırarak, istediğiniz kadar kahraman toplayabilmenizi sağlar."
+}

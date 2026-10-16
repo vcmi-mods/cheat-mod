@@ -1,0 +1,18 @@
+{
+	"mod.name": "Rozšířené herní úpravy",
+	"mod.description": "Sbírka volitelných úprav hratelnosti pro přizpůsobení a vylepšení zážitku z Heroes III:<br><br>• <b>Neomezená výstavba</b> – umožňuje stavět neomezený počet budov za tah ve městech<br>• <b>Neomezení hrdinové</b> – odstraňuje limit počtu hrdinů na hráče<br>• <b>Odemknutí kampaní</b> – odemkne všechny kampaně od začátku, hratelné v libovolném pořadí<br>• <b>Akumulující obydlí</b> – obydlí hromadí jednotky každý týden místo resetu<br>• <b>Obnova Černého trhu</b> – Černé trhy obnovují nabídku každých 7 dní<br>• <b>Žádné speciální týdny</b> – vypne náhodné speciální týdny a měsíce<br>• <b>Dvojité týdny pro všechny jednotky</b> – každá jednotka může mít měsíc s dvojnásobným přírůstkem",
+	"mod.accumulating-dwellings.name": "Akumulující obydlí",
+	"mod.accumulating-dwellings.description": "Neutrální i hráčem vlastněná obydlí budou každým týdnem hromadit jednotky místo resetování růstu.",
+	"mod.all-double-weeks.name": "Dvojité týdny pro všechny jednotky",
+	"mod.all-double-weeks.description": "Umožní, aby každá jednotka mohla mít měsíc s dvojnásobným přírůstkem, bez ohledu na předdefinovaný seznam.",
+	"mod.black-market-restock.name": "Obnova Černého trhu",
+	"mod.black-market-restock.description": "Černé trhy obnovují nabídku každých 7 dní místo toho, aby zůstaly neměnné.",
+	"mod.campaign-unlocker.name": "Odemknutí kampaní",
+	"mod.campaign-unlocker.description": "Odemkne všechny kampaně a umožní hrát libovolnou z nich hned od začátku, bez nutnosti dodržovat původní pořadí.",
+	"mod.no-special-weeks.name": "Žádné speciální týdny",
+	"mod.no-special-weeks.description": "Vypne náhodné speciální týdny a měsíce, jako je dvojnásobný růst, mor nebo týdny jednotek. Nemá vliv na skriptované týdny, jako je \"Bůh ohně\".<br><br>Na mapách Horn of the Abyss toto nastavení nefunguje a použije se hodnota určená v mapě.",
+	"mod.unlimited-build.name": "Neomezená výstavba",
+	"mod.unlimited-build.description": "Odstraňuje omezení jednoho stavění za den ve městech a umožňuje postavit libovolný počet budov během jednoho tahu. Tato modifikace neposkytuje neomezené suroviny.",
+	"mod.unlimited-heroes.name": "Neomezení hrdinové",
+	"mod.unlimited-heroes.description": "Odstraňuje limit počtu hrdinů na hráče a umožňuje naverbovat libovolné množství."
+}
